@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: prod-app
-        image: dockwithvamsee/multibranch-prod-app:build-8
+        image: dockwithvamsee/multibranch-prod-app:build-9
         ports:
         - containerPort: 5000
