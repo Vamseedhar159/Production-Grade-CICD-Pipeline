@@ -30,7 +30,7 @@ products = [
         "id": 3,
         "name": "Running Shoes",
         "price": 79.99,
-        "image": "https://picsum.photos/300/200?random=3",
+        "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=300&q=80",
         "category": "Fashion",
         "description": "Comfortable running shoes for all terrains",
         "rating": 4.7
