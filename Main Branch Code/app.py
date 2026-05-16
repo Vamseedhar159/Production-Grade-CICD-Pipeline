@@ -21,7 +21,7 @@ products = [
         "id": 2,
         "name": "Smart Watch",
         "price": 199.99,
-        "image": "https://picsum.photos/300/200?random=2",
+        "image": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?auto=format&fit=crop&w=300&q=80",
         "category": "Electronics",
         "description": "Feature-rich smartwatch with health monitoring",
         "rating": 4.2
