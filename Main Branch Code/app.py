@@ -12,7 +12,7 @@ products = [
         "id": 1,
         "name": "Wireless Headphones",
         "price": 99.99,
-        "image": "https://picsum.photos/300/200?random=1",
+        "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=300&q=80",
         "category": "Electronics",
         "description": "High-quality wireless headphones with noise cancellation",
         "rating": 4.5
